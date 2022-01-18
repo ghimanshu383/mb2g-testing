@@ -2,8 +2,10 @@ package guru.springframework;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.junit.runner.RunWith;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+
 
 public class JavaHelloWorldTest {
     JavaHelloWorld helloWorld;
